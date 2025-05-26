@@ -6,7 +6,7 @@
 🧠 Recent mini-projects include:
 - LSTM-based momentum strategy using historical stock returns  
 - Replication of factor models based on academic literature  
-- Valuation and pricing models for financial derivatives  
+- Statistical arbitrage using co-integrations  
 
 🚀 I'm passionate about solving financial problems through mathematical rigor and computational methods.  
 🔍 Aspiring Quant Researcher | Always exploring cutting-edge research in quantitative finance | Open to collaboration
