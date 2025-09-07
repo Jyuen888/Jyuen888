@@ -4,6 +4,7 @@
 📊 I'm interested in systematic trading through statistical arbitrage, and in the application of mathematics to derivatives pricing.
 💻 My technical toolkit includes Python, pandas, NumPy, R Studio, and time series analysis.  
 🧠 Recent mini-projects include:
+- Pair trading strategy with dynamic hedge ratio using Kalman filter
 - LSTM-based momentum strategy using historical stock returns  
 - Replication of factor models based on academic literature  
 - Statistical arbitrage using co-integrations  
